@@ -1,0 +1,6 @@
+C:\Users\Rodrigo\Desktop\API\BLL\bin\Debug\BLL.dll
+C:\Users\Rodrigo\Desktop\API\BLL\bin\Debug\BLL.pdb
+C:\Users\Rodrigo\Desktop\API\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\API\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\API\BLL\obj\Debug\BLL.dll
+C:\Users\Rodrigo\Desktop\API\BLL\obj\Debug\BLL.pdb

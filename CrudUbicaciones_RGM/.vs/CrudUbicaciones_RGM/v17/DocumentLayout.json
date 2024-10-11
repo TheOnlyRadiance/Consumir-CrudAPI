@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rodrigo\\Desktop\\API\\CrudUbicaciones_RGM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C989011-DA81-4E98-8E5C-D60885389C4F}|CrudUbicaciones_RGM.csproj|C:\\Users\\Rodrigo\\Desktop\\API\\CrudUbicaciones_RGM\\frmubicaciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C989011-DA81-4E98-8E5C-D60885389C4F}|CrudUbicaciones_RGM.csproj|solutionrelative:frmubicaciones.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F4FAB2-1599-4F2B-A7D1-CD21C3FD6FED}|..\\DAL\\DAL.csproj|c:\\users\\rodrigo\\desktop\\api\\dal\\ubicacionesdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58270CB-2DC5-4DCE-BC8D-632AB80D6F0F}|..\\BLL\\BLL.csproj|c:\\users\\rodrigo\\desktop\\api\\bll\\ubicaciones_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmUbicaciones.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\API\\CrudUbicaciones_RGM\\frmUbicaciones.aspx.cs",
+              "RelativeDocumentMoniker": "frmUbicaciones.aspx.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\API\\CrudUbicaciones_RGM\\frmUbicaciones.aspx.cs",
+              "RelativeToolTip": "frmUbicaciones.aspx.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwGEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T21:12:58.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UbicacionesDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\API\\DAL\\UbicacionesDAL.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\UbicacionesDAL.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\API\\DAL\\UbicacionesDAL.cs",
+              "RelativeToolTip": "..\\DAL\\UbicacionesDAL.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:35:30.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ubicaciones_BLL.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Desktop\\API\\BLL\\Ubicaciones_BLL.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Ubicaciones_BLL.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Desktop\\API\\BLL\\Ubicaciones_BLL.cs",
+              "RelativeToolTip": "..\\BLL\\Ubicaciones_BLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:12:05.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

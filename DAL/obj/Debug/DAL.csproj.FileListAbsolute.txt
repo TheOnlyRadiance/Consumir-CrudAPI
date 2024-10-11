@@ -1,0 +1,9 @@
+C:\Users\Rodrigo\Desktop\API\DAL\bin\Debug\DAL.dll
+C:\Users\Rodrigo\Desktop\API\DAL\bin\Debug\DAL.pdb
+C:\Users\Rodrigo\Desktop\API\DAL\bin\Debug\BLL.dll
+C:\Users\Rodrigo\Desktop\API\DAL\bin\Debug\BLL.pdb
+C:\Users\Rodrigo\Desktop\API\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\API\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\API\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Rodrigo\Desktop\API\DAL\obj\Debug\DAL.dll
+C:\Users\Rodrigo\Desktop\API\DAL\obj\Debug\DAL.pdb
